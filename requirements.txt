@@ -1,6 +1,0 @@
-anvil-uplink
-matplotlib
-numpy
-pandas
-seaborn
-tensorflow
